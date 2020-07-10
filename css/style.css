@@ -207,7 +207,7 @@ body {
   width: 50%;
   height: 700px;
   height: auto;
-  background: url("/img/intro__background.png");
+  background: url("../img/intro__background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -229,7 +229,7 @@ body {
 .feature__left {
   width: 50%;
   height: 600px;
-  background: url("/img/feature__background.png");
+  background: url("../img/feature__background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
