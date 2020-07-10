@@ -166,7 +166,7 @@ body{
 		width: 50%;
 		height: 700px;
 		height: auto;
-		background: url("/img/intro__background.png");
+		background: url("../img/intro__background.png");
 		@include background-image();
 	}
 }
@@ -182,7 +182,7 @@ body{
 	&__left {
 		width: 50%;
 		height: 600px;
-		background: url("/img/feature__background.png");
+		background: url("../img/feature__background.png");
 		@include background-image();
 	}
 	&__right {
